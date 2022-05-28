@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "TRFC_LGHT-rescue")(type "Legacy")(uri "${KIPRJMOD}/TRFC_LGHT-rescue.lib")(options "")(descr ""))
+)
